@@ -1,0 +1,12 @@
+1. Opening SWI-Prolog:
+swipl
+
+2. For Changing directory:
+working_directory(CWD,'D:/AAI/05 - Prolog - Rule Based System').
+
+3. For Consulting the KB
+consult('diseases.pl').
+
+4. For Running the code
+go.
+

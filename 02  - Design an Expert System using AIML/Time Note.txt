@@ -1,0 +1,5 @@
+Change line 335 :
+start = time.perf_counter()
+
+Change line 356 :
+print( "done (%.2f seconds)" % (time.perf_counter() - start) )
